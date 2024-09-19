@@ -1,0 +1,6 @@
+nav {
+    background-color: #fe7a16; 
+}
+.dropdown-content li > a {
+    color: black !important;
+}
